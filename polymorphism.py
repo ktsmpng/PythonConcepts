@@ -1,6 +1,6 @@
 #Inheritance/ Polymorphism
 
-"""Inheritance is the concept of inheriting FEATURES from ANOTHER CLASS. 
+"""	Inheritance is the concept of inheriting FEATURES from ANOTHER CLASS. 
 	This can be applied when 'TWO OR MORE CLASSES SHARE COMMON ATTRIBUTES OR METHODS.' 
 
 	Base/ Super Class - the class that is inherited from.
@@ -11,7 +11,7 @@
 	which is then OVERIDED BY THE SUBCLASSES!
 	Each subclass will have a DIFFERENT IMPLEMENTATION OF THIS METHOD. 
 	When the super class method is called,
-	it choose which method to run depending on the subclass."""
+	it will choose which method to run depending on the subclass."""
 
 class Pet: #Create a Base Class
 
